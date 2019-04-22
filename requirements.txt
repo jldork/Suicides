@@ -1,5 +1,5 @@
 numpy
 pandas
 seaborn
-scikitlearn
+scikit-learn
 missingno
